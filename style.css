@@ -148,12 +148,12 @@ body {
 }
 
 .profile-text h2 {
-	font-size: 24px;
+	font-size: 26px;
 	margin-bottom: 10px;
 }
 
 .profile-text p {
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 1.5;
 }
 
@@ -171,7 +171,7 @@ ul {
 	list-style: none;
 	padding: 0;
 	margin-bottom: 20px;
-	font-size: 18px;
+	font-size: 20px;
 }
 
 li {
@@ -245,6 +245,7 @@ li {
 .description {
 	color: black;
 	margin-bottom: 20px;
+	font-size: 22px;
 }
 
 .projects {
@@ -269,12 +270,12 @@ li {
 }
 
 .project h2 {
-	font-size: 20px;
+	font-size: 22px;
 	margin-top: 10px;
 }
 
 .project p {
-	font-size: 16px;
+	font-size: 18px;
 }
 
 .project:hover {
@@ -299,7 +300,7 @@ li {
 	max-width: 600px;
 	padding: 20px;
 	text-align: center;
-	font-size: 20px;
+	font-size: 22px;
 }
 
 .logo {
@@ -330,13 +331,13 @@ li {
 
 .contact-line {
 	color: white;
-	font-size: 24px;
+	font-size: 26px;
 	margin-bottom: 30px;
 }
 
 .email-line {
 	color: white;
-	font-size: 20px;
+	font-size: 22px;
 	margin-bottom: 30px;
 }
 
